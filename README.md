@@ -1,6 +1,9 @@
 DISBELEAF.
 
-https://github.com/user-attachments/assets/374e4b63-31e2-442c-93bd-8f201db09320
+
+
+https://github.com/user-attachments/assets/0aa0cf62-2c52-44ce-841d-e7824233dd2a
+
 
 
 > [!NOTE]
@@ -12,8 +15,8 @@ https://github.com/user-attachments/assets/374e4b63-31e2-442c-93bd-8f201db09320
 
 A 3D minigame written in C++ and OpenGL. You play as a leaf sea slug
 (*Elysia chlorotica*) swimming around, nomming as many algal balls as you
-can before the time limit runs out! Not really a competition just a fun
-medium, but my highscore is 24 :D.
+can before the time limit runs out! (kind of like 3D snake). 
+Not really a competition, games are just a fun medium for creation... but my highscore is 24 :D.
 
 
 ## Tech stack
@@ -54,11 +57,8 @@ cd bin; .\disbeleaf.exe
 > [!NOTE]
 > The 3D models, textures and font aren't included in this repo for copyright
 > reasons (see [CREDITS.md](CREDITS.md))
-> So the game builds but obviously no assets...
-> See demo video for full game
-
-(Originally built on Windows with MSVC; the build was reworked in Oct 2026
-to be cross-platform without committed binaries.)
+> So the game builds but obviously no assets.
+> See demo video for full game!
 
 ## Some reflections
 
