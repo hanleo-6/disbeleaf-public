@@ -1,4 +1,4 @@
-DISBELEAF.
+**DISBELEAF.**
 
 
 
@@ -6,18 +6,16 @@ https://github.com/user-attachments/assets/0aa0cf62-2c52-44ce-841d-e7824233dd2a
 
 
 
-> [!NOTE]
-> **Archived:** This was my A-level Computer Science NEA (2024–25).
->               It was my first C++ and graphics programming project,
->               and also a mark of when I became fascinated by boids.
-> (Oct 2026: updated the CMake build so it runs on Linux.)
-
-
 A 3D minigame written in C++ and OpenGL. You play as a leaf sea slug
 (*Elysia chlorotica*) swimming around, nomming as many algal balls as you
 can before the time limit runs out! (kind of like 3D snake). 
 Not really a competition, games are just a fun medium for creation... but my highscore is 24 :D.
 
+> [!NOTE]
+> **Archived:** This was my A-level Computer Science NEA (2024–25).
+>               It was my first C++ and graphics programming project,
+>               and also a mark of when I became fascinated by boids.
+> (Oct 2026: updated the CMake build so it runs on Linux.)
 
 ## Tech stack
 C++20, OpenGL (GLAD), GLFW, GLM, Assimp, stb_image, Dear ImGui, CMake
